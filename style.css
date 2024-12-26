@@ -7,7 +7,7 @@
 .main{
     margin-top: 100px;
     margin-left: 100px;
-    background-color: red;
+    background-color: rgb(230, 198, 198);
     padding: 10px;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .menu {
-    background-color: purple;
+    background-color: rgb(247, 193, 247);
     padding: 10px;
     display: flex;
     flex-direction: row;
@@ -32,7 +32,7 @@
 }
 
 .submenu{
-    background-color: blue;
+    background-color: rgb(193, 193, 236);
     padding: 10px;
 }
 
@@ -46,7 +46,7 @@
 .banner-heading {
     font-size: xx-large;
     font-weight: 400;
-    color: brown;
+    color: rgb(235, 173, 173);
     text-align: center;
 }
 
